@@ -1,0 +1,7 @@
+C:\Users\duyro\source\repos\Question 3\Question 3.3\bin\Debug\Question 3.3.exe.config
+C:\Users\duyro\source\repos\Question 3\Question 3.3\bin\Debug\Question 3.3.exe
+C:\Users\duyro\source\repos\Question 3\Question 3.3\bin\Debug\Question 3.3.pdb
+C:\Users\duyro\source\repos\Question 3\Question 3.3\obj\Debug\Question 3.3.csproj.AssemblyReference.cache
+C:\Users\duyro\source\repos\Question 3\Question 3.3\obj\Debug\Question 3.3.csproj.CoreCompileInputs.cache
+C:\Users\duyro\source\repos\Question 3\Question 3.3\obj\Debug\Question 3.3.exe
+C:\Users\duyro\source\repos\Question 3\Question 3.3\obj\Debug\Question 3.3.pdb
